@@ -1,12 +1,3 @@
-"← 
-Weapons
-
-
-There are currently 110 
-main weapons
- in 
-Splatoon 3
- as of 
-Version 6.0.0
-.
+"
+Potatoes
 "
