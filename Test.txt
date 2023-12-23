@@ -1,17 +1,3 @@
-"""
-
-"
-.52 Gal,
-.96 Gal,
-Aerospray MG,
-Ballpoint Splatling,
-Bamboozler 14 Mk I
 "
 
-""
-.52 Gal,
-.96 Gal,
-Aerospray MG,
-Ballpoint Splatling,
-Bamboozler 14 Mk I
 "
