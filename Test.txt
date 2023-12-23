@@ -1,5 +1,9 @@
-".52 Gal,
+"".52 Gal,
 .96 Gal,
 Aerospray MG,
 Ballpoint Splatling,
-Bamboozler 14 Mk I"
+Bamboozler 14 Mk I"Blaster,
+Bloblobber,
+Carbon Roller,
+Clash Blaster,
+Classic Squiffer"
