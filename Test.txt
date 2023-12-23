@@ -1,8 +1,5 @@
-
-"
-",
 Blaster,
 Blolobber,
 Carbon Roller,
 Clash Blaster,
-Classic Squiffer,
+Classic Squiffer
