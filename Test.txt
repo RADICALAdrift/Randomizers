@@ -1,4 +1,2 @@
 "
-{existing_content.rstrip(",
-")},
-{weapons_lines}
+"
