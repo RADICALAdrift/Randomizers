@@ -1,4 +1,5 @@
 "
+"
 ".52 Gal,
 .96 Gal,
 Aerospray MG,
@@ -8,4 +9,9 @@ Blaster,
 Blolobber,
 Carbon Roller,
 Clash Blaster,
-Classic Squiffer"
+Classic Squiffer",
+Dapple Dualies,
+Dark Tetra Dualies,
+Dualie Squelchers,
+Dynamo Roller,
+E-Liter 4K"
