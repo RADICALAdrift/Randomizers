@@ -1,1 +1,5 @@
-
+"Blaster,
+Bloblobber,
+Carbon Roller,
+Clast Blaster,
+Classic Squiffer"
