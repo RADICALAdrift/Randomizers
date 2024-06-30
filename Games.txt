@@ -1,0 +1,35 @@
+windows_games:
+American Truck Simulator,
+Deep Rock Galactic,
+Euro Truck Simulator 2,
+Factorio,
+Fistful of Frags,
+Grand Theft Auto V,
+Jackbox Party Pack 2-10,
+OpenTTD,
+Rocket League,
+Snowrunner,
+Terraria (Vanilla),
+Terraria (Modded),
+Farming Simulator 22,
+FiveM,
+Minecraft (Java),
+Minecraft (Bedrock),
+Tanki Online,
+World Of Tanks,
+World Of Warships
+
+crossplay_games:
+Forza Horizon 4,
+Lightyear Frontier,
+Make Way,
+Palworld,
+Roblox,
+Stardew Valley,
+Street Fighter 6 (Parsec-Co-op),
+World of Warships: Legends
+
+wii_u_games:
+Mario Kart 8,
+Pokken Tournament,
+Splatoon
