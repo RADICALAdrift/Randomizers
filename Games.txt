@@ -26,7 +26,7 @@ Make Way,
 Palworld,
 Roblox,
 Stardew Valley,
-Street Fighter 6 (Parsec-Co-op),
+Street Fighter 6,
 World of Warships: Legends
 
 wii_u_games:
